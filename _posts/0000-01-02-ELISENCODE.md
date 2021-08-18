@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second silde"
 ---
-> Je laisse partir tout ce qui est negatif en moi.
+> JE LAISSE PARTIR TOUT CE QUI EST NEGATIF EN MOI.
 > Prie pour avoir la force d'endurer les difficultés.
 Use the left arrow to go back! 
